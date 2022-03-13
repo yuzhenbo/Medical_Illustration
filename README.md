@@ -7,7 +7,7 @@ The visulization of medical illustration
 <div align="center">
     <img src="医学插画(分类)\小孩3000x2250d\尿素循环障碍.jpg" style="width:40%" align = "left"> <img src="医学插画(分类)\小孩3000x2250d\小儿衣原体肺炎.jpg" style="width:40%"><br> 
 </div>
-    　　　　　　　　　<b>尿素循环障碍</b>    　　　　　　　　　　　     　　　　　　　           　　 <b>小儿衣原体肺炎</b>            
+    　　　　　　　　　<b>尿素循环障碍</b>    　　　　　　　　　　　     　 <b>小儿衣原体肺炎</b>            
 <br><br><br><br>
 
 
