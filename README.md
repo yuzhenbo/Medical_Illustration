@@ -1,5 +1,5 @@
 # Medical_Illustration
-The visulization of medical illustration
+The visulization of medical illustration. And the Medical_Illustration project is maintained By Yuying Cui.
 
 
 
